@@ -64,13 +64,9 @@ Endpoint	Description
 
 Firmware Build
 
-Project structure:
-
-esp32_embedded_brew/
-│
-├── src/
-│   └── main.cpp
-└── README.md
+## Quick start
+1. Flash `main.cpp` to an ESP32-C3 dev board.
+2. Visit `http://brew.local/` (or the assigned IP) to open the control panel.
 
 To build/upload (Arduino CLI or PlatformIO):
 
