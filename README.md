@@ -1,7 +1,3 @@
-Here is a clean, concise, professional README.md you can copy/paste directly.
-
-⸻
-
 ESP32 Embedded Brew
 
 A Wi-Fi–connected embedded controller for an off-the-shelf drip coffee maker.
@@ -94,5 +90,3 @@ Pull requests welcome. The goal is a compact, reliable embedded controller for a
 License
 
 MIT License.
-
-⸻
