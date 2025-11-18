@@ -22,6 +22,10 @@ The system includes:
 
 This project is designed to be installed inside a coffee maker enclosure and treated as a “sealed appliance brain.”
 
+##Control Panel UI
+![Control Panel UI](assets/UI_brew_on.png)
+![Control Panel UI](assets/UI_brew_off.png)
+
 ⸻
 
 Hardware
